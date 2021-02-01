@@ -1,4 +1,4 @@
-# Mans CV
+# Curriculum vitae
 
 Markuss Priede ![Markuss Priede](https://cdn.discordapp.com/attachments/372828265070723072/805787268043898920/IMG_41261.jpg)
 
@@ -13,7 +13,7 @@ Markuss Priede ![Markuss Priede](https://cdn.discordapp.com/attachments/37282826
 - Zinu angļu valodu augstā līmenī;
 - Pabeidzu 9. klašu pamatizglītību ar sudraba diplomu;
 - Esmu apguvis Pascal ABC, Python valodu sintaksi un citas īpatnības. Python zinu daudz labāk nekā Pascal ABC;
-- Zinu spāņu valodas pamatus;
+- Zinu spāņu valodas pamatus.
 
 
 ## Hobiji
@@ -23,5 +23,18 @@ Brīvajā laikā nodarbojos ar sportu - boksu, riteņbraukšanu. Patīk datoru d
 
 ## Pieredze programmēšanā
 
-**2016. gads**: programmēšanas pulciņš Rīgas Skolēnu pilī (Scratch, Pascal ABC)
-**2020. - šodien**: PIKC "Rīgas Valsts tehnikums" (Scratch, Python)
+- **2016. gads**: programmēšanas pulciņš Rīgas Skolēnu pilī (Scratch, Pascal ABC)
+- **2020. - šodien**: PIKC "Rīgas Valsts tehnikums" (Scratch, Python).
+
+
+## Valodu prasmes
+
+- **Latviešu valoda** - dzimtā
+- **Krievu valoda** - vidēji (mutvārdos un rakstos)
+- **Angļu valoda** - labi (mutvārdos un rakstos)
+- **Spāņu valoda** - pamatzināšanas
+
+
+## Cita darba pieredze
+
+**01.07.2020. - 31.08.2020.**: AS “Rīgas Dzirnavnieks”- pārtikas produktu ražošanas operators.
